@@ -189,7 +189,7 @@
   )
 
 
-  (rectangle (start 19.05 20.32) (end 71.12 58.42)
+  (rectangle (start 19.05 20.32) (end 80.01 82.55)
     (stroke (width 0) (type default))
     (fill (type none))
     (uuid 1012b9b5-98c7-44f2-b282-3a17e5257b17)
@@ -209,7 +209,7 @@
     (property "Value" "ESP32-DEVKITC" (at 50.8 22.86 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "MODULE_ESP32-DEVKITC" (at 50.8 49.53 0)
+    (property "Footprint" "Espressif:ESP32-WROOM-32E" (at 50.8 49.53 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (at 50.8 49.53 0)
