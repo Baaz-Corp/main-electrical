@@ -1,0 +1,8 @@
+Added Component: Designator=PowerIn(HDR1X2)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=PowerIn-1
+Added Pin To Net: NetName=NetPowerIn_2 Pin=PowerIn-2
+Added Pin To Net: NetName=NetPowerIn_2 Pin=U2-1
+Added Net: Name=NetPowerIn_2
+Added Member To Class: ClassName=component_layout Member=Component PowerIn Header 2

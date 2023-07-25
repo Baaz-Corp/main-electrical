@@ -1,0 +1,146 @@
+Added Component: Designator=AirQualitySensor(HDR2X2)
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "17-Jul-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=H1(HDR1X4)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Added Component: Designator=H2(HDR1X4)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Added Component: Designator=H3(HDR1X4)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Added Component: Designator=J1(HDR2X3)
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "17-Jul-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=J2(HDR2X3)
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "17-Jul-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=J3(HDR2X3)
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "17-Jul-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=J4(HDR2X3)
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "17-Jul-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=LiDAR comp.(HDR2X2)
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "17-Jul-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=LiDAR Motor(HDR2X2)
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "17-Jul-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=U1(MODULE_ESP32-DEVKITC-32D)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32D/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC-32D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ESP32-DEVKITC-32D/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32D/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(Buck Converter)
+Added Pin To Net: NetName=+3.3 Pin=H1-3
+Added Pin To Net: NetName=+3.3 Pin=J1-1
+Added Pin To Net: NetName=+3.3 Pin=J3-4
+Added Pin To Net: NetName=+3.3 Pin=J4-4
+Added Pin To Net: NetName=+3.3 Pin=U1-1
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+5 Pin=AirQualitySensor-2
+Added Pin To Net: NetName=+5 Pin=LiDAR comp.-1
+Added Pin To Net: NetName=+5 Pin=LiDAR Motor-1
+Added Net: Name=+5
+Added Pin To Net: NetName=+10.8 Pin=U1-19
+Added Net: Name=+10.8
+Added Pin To Net: NetName=+12 Pin=H2-2
+Added Pin To Net: NetName=+12 Pin=H3-2
+Added Pin To Net: NetName=+12 Pin=U2-4
+Added Net: Name=+12
+Added Pin To Net: NetName=+14.8 Pin=U2-1
+Added Net: Name=+14.8
+Added Pin To Net: NetName=Echo Pin=H1-2
+Added Net: Name=Echo
+Added Pin To Net: NetName=GND Pin=AirQualitySensor-4
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Pin To Net: NetName=GND Pin=J4-6
+Added Pin To Net: NetName=GND Pin=LiDAR comp.-3
+Added Pin To Net: NetName=GND Pin=LiDAR Motor-3
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Net: Name=GND
+Added Pin To Net: NetName=Left_motor_1 Pin=J1-3
+Added Pin To Net: NetName=Left_motor_1 Pin=U1-28
+Added Net: Name=Left_motor_1
+Added Pin To Net: NetName=Left_motor_2 Pin=J1-5
+Added Pin To Net: NetName=Left_motor_2 Pin=U1-29
+Added Net: Name=Left_motor_2
+Added Pin To Net: NetName=LeftEncoder1 Pin=J3-3
+Added Pin To Net: NetName=LeftEncoder1 Pin=U1-27
+Added Net: Name=LeftEncoder1
+Added Pin To Net: NetName=LeftEncoder2 Pin=J3-5
+Added Pin To Net: NetName=LeftEncoder2 Pin=U1-31
+Added Net: Name=LeftEncoder2
+Added Pin To Net: NetName=LME1 Pin=J1-4
+Added Net: Name=LME1
+Added Pin To Net: NetName=LME2 Pin=J1-6
+Added Net: Name=LME2
+Added Pin To Net: NetName=motor_PWM_lidar Pin=LiDAR Motor-4
+Added Pin To Net: NetName=motor_PWM_lidar Pin=U1-11
+Added Net: Name=motor_PWM_lidar
+Added Pin To Net: NetName=MotorEnable2 Pin=U1-6
+Added Net: Name=MotorEnable2
+Added Pin To Net: NetName=MotorEnable3 Pin=U1-7
+Added Net: Name=MotorEnable3
+Added Pin To Net: NetName=MotorEnable4 Pin=U1-8
+Added Net: Name=MotorEnable4
+Added Pin To Net: NetName=MotorEnable Pin=U1-5
+Added Net: Name=MotorEnable
+Added Pin To Net: NetName=NetH2_3 Pin=H2-3
+Added Pin To Net: NetName=NetH2_3 Pin=J4-2
+Added Net: Name=NetH2_3
+Added Pin To Net: NetName=NetH2_4 Pin=H2-4
+Added Pin To Net: NetName=NetH2_4 Pin=J4-1
+Added Net: Name=NetH2_4
+Added Pin To Net: NetName=NetH3_3 Pin=H3-3
+Added Pin To Net: NetName=NetH3_3 Pin=J3-2
+Added Net: Name=NetH3_3
+Added Pin To Net: NetName=NetH3_4 Pin=H3-4
+Added Pin To Net: NetName=NetH3_4 Pin=J3-1
+Added Net: Name=NetH3_4
+Added Pin To Net: NetName=Right_motor_1 Pin=J2-3
+Added Pin To Net: NetName=Right_motor_1 Pin=U1-32
+Added Net: Name=Right_motor_1
+Added Pin To Net: NetName=Right_motor_2 Pin=J2-5
+Added Pin To Net: NetName=Right_motor_2 Pin=U1-35
+Added Net: Name=Right_motor_2
+Added Pin To Net: NetName=RightEncoder1 Pin=J4-3
+Added Pin To Net: NetName=RightEncoder1 Pin=U1-30
+Added Net: Name=RightEncoder1
+Added Pin To Net: NetName=RightEncoder2 Pin=J4-5
+Added Pin To Net: NetName=RightEncoder2 Pin=U1-34
+Added Net: Name=RightEncoder2
+Added Pin To Net: NetName=RME1 Pin=J2-4
+Added Net: Name=RME1
+Added Pin To Net: NetName=RME2 Pin=J2-6
+Added Net: Name=RME2
+Added Pin To Net: NetName=Rx-LiDAR Pin=LiDAR comp.-2
+Added Pin To Net: NetName=Rx-LiDAR Pin=U1-23
+Added Net: Name=Rx-LiDAR
+Added Pin To Net: NetName=SCL_airqual Pin=AirQualitySensor-1
+Added Pin To Net: NetName=SCL_airqual Pin=U1-22
+Added Net: Name=SCL_airqual
+Added Pin To Net: NetName=SDA_airqual Pin=AirQualitySensor-3
+Added Pin To Net: NetName=SDA_airqual Pin=U1-25
+Added Net: Name=SDA_airqual
+Added Pin To Net: NetName=Trig Pin=H1-1
+Added Net: Name=Trig
+Added Pin To Net: NetName=Tx-LiDAR Pin=LiDAR comp.-4
+Added Pin To Net: NetName=Tx-LiDAR Pin=U1-24
+Added Net: Name=Tx-LiDAR
+Added Class: Name=component_layout
+Added Room: Name=component_layout
