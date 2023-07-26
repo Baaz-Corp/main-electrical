@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+3.3 Pin=MotorLeft-3
+Removed Pin From Net: NetName=+3.3 Pin=MotorRight-3
+Added Pin To Net: NetName=+5 Pin=MotorLeft-3
+Added Pin To Net: NetName=+5 Pin=MotorRight-3

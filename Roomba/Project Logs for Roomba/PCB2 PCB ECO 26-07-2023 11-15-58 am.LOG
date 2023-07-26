@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+3.3 Pin=J1-1
+Removed Pin From Net: NetName=+5 Pin=LiDAR comp.-1
+Removed Pin From Net: NetName=Tx-LiDAR Pin=LiDAR comp.-4
+Removed Pin From Net: NetName=+5 Pin=LiDAR Motor-1
+Removed Pin From Net: NetName=GND Pin=LiDAR Motor-3
+Removed Pin From Net: NetName=motor_PWM_lidar Pin=LiDAR Motor-4
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=J2-1
+Added Pin To Net: NetName=Tx-LiDAR Pin=LiDAR comp.-1
+Added Pin To Net: NetName=+5 Pin=LiDAR comp.-4
+Added Pin To Net: NetName=motor_PWM_lidar Pin=LiDAR Motor-2
+Added Pin To Net: NetName=+5 Pin=LiDAR Motor-3
+Added Pin To Net: NetName=GND Pin=LiDAR Motor-4
+Added Pin To Net: NetName=+12 Pin=U1-19
