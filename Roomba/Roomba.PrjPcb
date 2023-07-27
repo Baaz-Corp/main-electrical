@@ -99,6 +99,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSGOQJAU
 
+[GeneratedDocument1]
+DocumentPath=
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

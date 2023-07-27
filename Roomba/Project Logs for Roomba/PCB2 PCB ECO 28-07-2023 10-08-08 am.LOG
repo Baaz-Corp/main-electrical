@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+5 Pin=AirQualitySensor-4
+Added Pin To Net: NetName=+3V3 Pin=AirQualitySensor-4
+Added Pin To Net: NetName=+3V3 Pin=U1-1
+Added Net: Name=+3V3
