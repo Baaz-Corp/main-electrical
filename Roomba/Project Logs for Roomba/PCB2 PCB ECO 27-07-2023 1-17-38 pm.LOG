@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Left_motor_1 Pin=U1-7
+Removed Pin From Net: NetName=Left_motor_2 Pin=U1-8
+Removed Pin From Net: NetName=LeftEncoder1 Pin=U1-9
+Removed Pin From Net: NetName=LeftEncoder2 Pin=U1-10
+Added Pin To Net: NetName=Left_motor_2 Pin=U1-7
+Added Pin To Net: NetName=Left_motor_1 Pin=U1-8
+Added Pin To Net: NetName=LeftEncoder2 Pin=U1-9
+Added Pin To Net: NetName=LeftEncoder1 Pin=U1-10

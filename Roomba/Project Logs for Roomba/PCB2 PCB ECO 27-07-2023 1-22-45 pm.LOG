@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=RME1 Pin=U1-27
+Removed Pin From Net: NetName=RME2 Pin=U1-28
+Removed Pin From Net: NetName=RightEncoder1 Pin=U1-31
+Removed Pin From Net: NetName=RightEncoder2 Pin=U1-32
+Removed Pin From Net: NetName=Right_motor_1 Pin=U1-34
+Removed Pin From Net: NetName=Right_motor_2 Pin=U1-35
+Added Pin To Net: NetName=Right_motor_1 Pin=U1-27
+Added Pin To Net: NetName=Right_motor_2 Pin=U1-28
+Added Pin To Net: NetName=RME2 Pin=U1-31
+Added Pin To Net: NetName=RME1 Pin=U1-32
+Added Pin To Net: NetName=RightEncoder1 Pin=U1-34
+Added Pin To Net: NetName=RightEncoder2 Pin=U1-35
