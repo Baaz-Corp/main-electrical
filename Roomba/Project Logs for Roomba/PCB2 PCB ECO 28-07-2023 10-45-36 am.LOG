@@ -1,0 +1,10 @@
+Add Component: Footprint Not Found HDR1X4
+Add Pin To Net: Unknown Pin: Pin H2-3
+Add Pin To Net: Unknown Pin: Pin H2-4
+Change Net Name : Old Net Name=Echo New Net Name=Echo1
+Change Net Name : Old Net Name=Trig New Net Name=Trig1
+Added Pin To Net: NetName=Echo2 Pin=U1-30
+Added Net: Name=Echo2
+Added Pin To Net: NetName=Trig2 Pin=U1-29
+Added Net: Name=Trig2
+Add Class Member: Failed to add class member : Component H2 Header 4
