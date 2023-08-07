@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Rx-LiDAR Pin=U1-23
+Removed Pin From Net: NetName=Tx-LiDAR Pin=U1-24
+Removed Pin From Net: NetName=Trig2 Pin=U1-30
+Removed Pin From Net: NetName=RME2 Pin=U1-31
+Added Pin To Net: NetName=Trig2 Pin=U1-11
+Added Pin To Net: NetName=RME2 Pin=U1-21
+Added Pin To Net: NetName=Rx-LiDAR Pin=U1-30
+Added Pin To Net: NetName=Tx-LiDAR Pin=U1-31

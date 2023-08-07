@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=Rx-LiDAR Pin=U1-23
+Removed Pin From Net: NetName=Tx-LiDAR Pin=U1-24
+Removed Pin From Net: NetName=Echo2 Pin=U1-29
+Removed Pin From Net: NetName=Trig2 Pin=U1-30
+Removed Pin From Net: NetName=RME2 Pin=U1-31
+Removed Pin From Net: NetName=+5 Pin=U3-q
+Removed Pin From Net: NetName=GND Pin=U3-q
+Removed Pin From Net: NetName=+12 Pin=U3-q
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Added Pin To Net: NetName=Trig2 Pin=U1-11
+Added Pin To Net: NetName=Echo2 Pin=U1-21
+Added Pin To Net: NetName=RME2 Pin=U1-29
+Added Pin To Net: NetName=Rx-LiDAR Pin=U1-30
+Added Pin To Net: NetName=Tx-LiDAR Pin=U1-31
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
