@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=+12 Pin=U1-19
+Removed Pin From Net: NetName=+5 Pin=U3-q
+Removed Pin From Net: NetName=GND Pin=U3-q
+Removed Pin From Net: NetName=+12 Pin=U3-q
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Change Component Footprint: Designator=PowerIn Old Footprint=HDR1X2 New Footprint=ScrewTerm_2.54_2
+Change Component Comment : Designator=PowerIn Old Comment=Header 2 New Comment=Screw_5.08_2
+Change component parameters: Designator = "PowerIn" ("PowerIn"); Footprint = "HDR1X2"; UniqueID = "\PRDEYZOF" ("\PRDEYZOF")
+Change component parameters (AddParameter): Name = "Catalogue Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Moto_pwr_1(ScrewTerm_2.54_2)
+Add component (AddParameter): Name = "Catalogue Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Moto_pwr_2(ScrewTerm_2.54_2)
+Add component (AddParameter): Name = "Catalogue Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Moto_pwr_1-1
+Added Pin To Net: NetName=+12 Pin=Moto_pwr_1-2
+Added Pin To Net: NetName=GND Pin=Moto_pwr_2-1
+Added Pin To Net: NetName=+12 Pin=Moto_pwr_2-2
+Added Pin To Net: NetName=+5 Pin=U1-19
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Added Pin To Net: NetName=Motor_enable Pin=MotoDriverLeft-4
+Added Pin To Net: NetName=Motor_enable Pin=MotoDriverLeft-6
+Added Pin To Net: NetName=Motor_enable Pin=MotoDriverRight-4
+Added Pin To Net: NetName=Motor_enable Pin=MotoDriverRight-6
+Added Pin To Net: NetName=Motor_enable Pin=U1-32
+Added Net: Name=Motor_enable
+Added Member To Class: ClassName=component_layout Member=Component Moto_pwr_1 Screw_5.08_2
+Added Member To Class: ClassName=component_layout Member=Component Moto_pwr_2 Screw_5.08_2
