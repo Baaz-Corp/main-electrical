@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=U3 Old Footprint=TO-92 New Footprint=TO-92A
+Change Component Comment : Designator=U3 Old Comment=78L05ACZ New Comment=TO92 regulator
+Change component parameters: Designator = "U3" ("U3"); Footprint = "TO-92"; UniqueID = "\DNFSYNHT" ("\DNFSYNHT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetDocument"; Value = "Sep-1997"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDocument"; Value = "revC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "ZZ311"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=+12 Pin=U3-3

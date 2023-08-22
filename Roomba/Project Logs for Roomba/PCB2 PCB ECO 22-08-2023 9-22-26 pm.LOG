@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Trig2 Pin=U1-13
+Removed Pin From Net: NetName=Echo2 Pin=U1-21
+Added Pin To Net: NetName=Echo2 Pin=U1-13
+Added Pin To Net: NetName=Trig2 Pin=U1-21
