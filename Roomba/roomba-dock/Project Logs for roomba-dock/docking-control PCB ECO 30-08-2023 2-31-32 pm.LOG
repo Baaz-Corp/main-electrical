@@ -1,0 +1,35 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Component: Designator=U1(MODULE_ESP32-DEVKITC-32D)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32D/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC-32D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32D/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Added Pin To Net: NetName=sw1_en Pin=U1-J2-7
+Added Pin To Net: NetName=sw2_en Pin=U1-J2-8
+Added Pin To Net: NetName=+5 Pin=U1-J2-19
+Added Pin To Net: NetName=button_out Pin=U1-J3-12
+Added Pin To Net: NetName=button_in Pin=U1-J3-13
+Added Pin To Net: NetName=+18 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=+15 Pin=U2-3
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Class Member: Failed to add class member : Component Q1 Bipolar NPN 4 Pins Transistor Gummel-Poon Model
+Add Class Member: Failed to add class member : Component Q2 Bipolar NPN 4 Pins Transistor Gummel-Poon Model
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component S1 Push Button Normally Opened
+Added Member To Class: ClassName=docking-control Member=Component U1 ESP32-DEVKITC-32D
+Added Member To Class: ClassName=docking-control Member=Component U2 Positive Fixed Voltage regulator
+Add Class Member: Failed to add class member : Component U3 Positive Fixed Voltage regulator

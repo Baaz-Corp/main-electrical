@@ -1,0 +1,22 @@
+Added Component: Designator=H1(HDR1X4)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Added Component: Designator=H2(HDR1X3)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Added Component: Designator=H3(HDR1X2)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MODULE_ESP32-DEVKITC-32D
+Added Component: Designator=U?(DIP-16x500)
+Added Net: Name=+5
+Added Net: Name=+15
+Added Net: Name=+18
+Added Net: Name=adc_in
+Added Net: Name=button_in
+Added Net: Name=button_out
+Added Net: Name=GND
+Added Net: Name=sw1_en
+Added Net: Name=sw2_en
+Added Class: Name=docking-control
+Added Room: Name=docking-control
