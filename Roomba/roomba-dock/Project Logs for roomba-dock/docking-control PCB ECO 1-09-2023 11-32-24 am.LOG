@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=button_out Pin=U1-J3-12
+Removed Pin From Net: NetName=+18 Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=+15 Pin=U2-3
+Change Component Footprint: Designator=H3 Old Footprint=HDR1X2 New Footprint=HDR1X4
+Change Component Comment : Designator=H3 Old Comment=Header 2 New Comment=Header 4
+Added Component: Designator=P1(PWR_SOCKET_3.1)
+Added Pin To Net: NetName=+5 Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=GND Pin=H3-4
+Added Pin To Net: NetName=+18 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Added Pin To Net: NetName=adc_in Pin=U1-J2-6
+Added Pin To Net: NetName=button_out Pin=U1-J2-9
+Added Pin To Net: NetName=+18 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=+15 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=+5 Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=+15 Pin=U2-16
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Added Pin To Net: NetName=lm_in Pin=H2-3
+Added Pin To Net: NetName=lm_in Pin=U1-J3-16
+Added Net: Name=lm_in
+Added Pin To Net: NetName=NetU2_5 Pin=U2-5
+Added Pin To Net: NetName=NetU2_5 Pin=U2-6
+Added Net: Name=NetU2_5
+Added Pin To Net: NetName=sm_1 Pin=H1-1
+Added Pin To Net: NetName=sm_1 Pin=U2-12
+Added Net: Name=sm_1
+Added Pin To Net: NetName=sm_2 Pin=H1-2
+Added Pin To Net: NetName=sm_2 Pin=U2-11
+Added Net: Name=sm_2
+Added Pin To Net: NetName=sm_3 Pin=H1-3
+Added Pin To Net: NetName=sm_3 Pin=U2-13
+Added Net: Name=sm_3
+Added Pin To Net: NetName=sm_4 Pin=H1-4
+Added Pin To Net: NetName=sm_4 Pin=U2-14
+Added Net: Name=sm_4
+Added Pin To Net: NetName=stepper_dir Pin=U1-J3-9
+Added Pin To Net: NetName=stepper_dir Pin=U2-8
+Added Net: Name=stepper_dir
+Added Pin To Net: NetName=stepper_en Pin=U1-J3-8
+Added Pin To Net: NetName=stepper_en Pin=U2-1
+Added Net: Name=stepper_en
+Added Pin To Net: NetName=stepper_pwm Pin=U1-J3-13
+Added Pin To Net: NetName=stepper_pwm Pin=U2-7
+Added Net: Name=stepper_pwm
+Added Pin To Net: NetName=switch_in Pin=H3-1
+Added Net: Name=switch_in
+Added Pin To Net: NetName=switch_out Pin=H3-3
+Added Net: Name=switch_out
+Added Member To Class: ClassName=docking-control Member=Component P1 PWR_SOCKET_3.1
+Add Class Member: Failed to add class member : Component Q1 Bipolar NPN 4 Pins Transistor Gummel-Poon Model
+Add Class Member: Failed to add class member : Component Q2 Bipolar NPN 4 Pins Transistor Gummel-Poon Model
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component S1 Push Button Normally Opened
+Added Member To Class: ClassName=docking-control Member=Component U2 Positive Fixed Voltage regulator
+Add Class Member: Failed to add class member : Component U3 Positive Fixed Voltage regulator
