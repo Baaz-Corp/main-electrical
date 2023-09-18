@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=* Old Footprint=Mini 360 Buck Converter-Footprint-1 New Footprint=Mini360-Footprint-1
+Change Component Comment : Designator=* Old Comment=Mini 360 Buck Converter New Comment=Mini360
+Change Managed Component Library Link : Designator=* Old VaultGUID=A19C2A21-D9CC-4F8C-9EAA-EE678805A78E New VaultGUID=A19C2A21-D9CC-4F8C-9EAA-EE678805A78E Old ItemGUID=7d739658-efff-4cb0-9b44-33adbac7d487 New ItemGUID=edcb2351-4f27-4a47-9334-d75e06826317 Old RevisionGUID=12ccccad-1bee-4213-85e9-f584e876e37d New RevisionGUID=5ac7e706-aded-478c-80d7-0d58a4c566b5
+Change component parameters: Designator = "*" ("*"); Footprint = "Mini 360 Buck Converter-Footprint-1"; UniqueID = "\PVQOBTTS" ("\PVQOBTTS")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=+5 Pin=*-4
